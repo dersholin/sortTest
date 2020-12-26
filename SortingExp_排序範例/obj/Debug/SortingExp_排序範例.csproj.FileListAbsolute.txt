@@ -1,0 +1,10 @@
+D:\study\程序\c#\SortingExp_排序範例\SortingExp_排序範例\bin\Debug\SortingExp_排序範例.exe.config
+D:\study\程序\c#\SortingExp_排序範例\SortingExp_排序範例\bin\Debug\SortingExp_排序範例.exe
+D:\study\程序\c#\SortingExp_排序範例\SortingExp_排序範例\bin\Debug\SortingExp_排序範例.pdb
+D:\study\程序\c#\SortingExp_排序範例\SortingExp_排序範例\obj\Debug\SortingExp_排序範例.csprojAssemblyReference.cache
+D:\study\程序\c#\SortingExp_排序範例\SortingExp_排序範例\obj\Debug\SortingExp_排序範例.Form1.resources
+D:\study\程序\c#\SortingExp_排序範例\SortingExp_排序範例\obj\Debug\SortingExp_排序範例.Properties.Resources.resources
+D:\study\程序\c#\SortingExp_排序範例\SortingExp_排序範例\obj\Debug\SortingExp_排序範例.csproj.GenerateResource.cache
+D:\study\程序\c#\SortingExp_排序範例\SortingExp_排序範例\obj\Debug\SortingExp_排序範例.csproj.CoreCompileInputs.cache
+D:\study\程序\c#\SortingExp_排序範例\SortingExp_排序範例\obj\Debug\SortingExp_排序範例.exe
+D:\study\程序\c#\SortingExp_排序範例\SortingExp_排序範例\obj\Debug\SortingExp_排序範例.pdb
